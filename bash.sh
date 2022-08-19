@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(date) # Will print the output of date command
+echo "this is a bash script"
